@@ -1,5 +1,5 @@
 <h1>Basic Web Design</h1>
 
 <ul>
-    <li><a href="Hello World/index.html">Hello World</a></li></li>
+    <li><a href="Hello World/index.html" target="blank">Lab 2</a></li>
 </ul>

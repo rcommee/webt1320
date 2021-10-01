@@ -1,0 +1,104 @@
+/* Global Style */
+body {
+    background-color: #abaad4;
+}
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Mobile Styles */
+#container {
+    background-color: #abaad4;
+    margin: 10px;
+    border: 4 px solid #755959;
+}
+
+header {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    padding: 60px 0;
+}
+
+header h1 {
+    color: #755959;
+    text-align: center;
+    text-shadow: 2px 2px 2px #000;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    background-color: #755959;
+    color: #755959;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px 0;
+    font-size: 1.2em;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+nav li a:hover {
+    background-color: #abaad4;
+    text-shadow: 1px 1px 1px #000;
+}
+
+nav, section, aside, .col, footer {
+    background-color: #755959;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 4px solid #abaad4;
+}
+
+.button {
+    display: block;
+    background-color: #abaad4;
+    color: #755959;
+    height: 40px;
+    width: 175px;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px 0;
+    font-size: 1em;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #abaad4;
+    text-shadow: 1px 1px 1px #000;
+}
+
+h2, h3 {
+    color: #abaad4;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+section img, aside img {
+    width: 65%;
+}
+
+footer {
+    padding: 20px 0;
+    text-align: center;
+    color: #abaad4;
+}
+
+/* Tablet Styles */
+
+
+/*Desktop Styles */
